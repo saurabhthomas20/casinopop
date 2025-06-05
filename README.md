@@ -1,4 +1,4 @@
-# 🎲 CasinoPop — Kolay. Kullanışlı. Popüler.
+# 🎲 CasinoPop — Kullanımı kolay, işlevsel ve oyuncular arasında popüler olan bir platformdur.
 
 **CasinoPop**, sade tasarımı ve sevilen oyun seçenekleriyle kullanıcılarına kolay bir deneyim sunar. Klasik ve modern oyunlarla keyifli vakit geçirebilirsiniz.
 
